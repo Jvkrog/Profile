@@ -1,0 +1,63 @@
+ //JVKROG — Autonomous Systems & Decision Engineering//
+
+This repository documents my journey in building **autonomous and semi-autonomous systems** across embedded hardware, IoT, and algorithmic decision-making.
+
+Rather than focusing on final outcomes alone, this project emphasizes:
+- system behavior
+- failure-driven iteration
+- explainable decisions
+- reduction of human dependency in critical moments
+
+// Each project follows a common philosophy:
+
+> **Observe → Decide → Act**
+
+Failures are intentionally preserved and documented, as they directly shaped later design choices.
+
+---
+
+// Project Areas
+
+//  Embedded & Robotics
+- **WiFi Car (ESP32-CAM Rover)**  
+  Real-time video streaming and web-based remote control.
+
+- **FireBot **  
+  Mobile fire detection with IoT-based monitoring.
+
+- **Smart Wrist Band**  
+  Wearable safety system with fall detection, Blynk dashboard, and Telegram alerts.
+
+---
+
+//  Algorithmic Decision Systems
+- **Trading Algorithm (TAlgo)**  
+  A rule-based trading system built to reduce emotional decision-making such as fear, greed, and revenge trading.
+
+  Each version exists because the previous one failed under specific market conditions.  
+  Strategies are documented as evolving experiments rather than fixed solutions.
+
+---
+
+// Design Philosophy
+
+- Prefer **simple, explainable logic** over complex black-box systems
+- Treat emotions as **system bugs**, not personal flaws
+- Accept that *no action* is also a valid decision
+- Build systems that can explain **why** a decision was made
+
+---
+
+// Why This Repository Exists
+
+Most projects focus on success stories.  
+This repository focuses on **learning through failure** and building systems that become more robust over time.
+
+The goal is not optimization at any cost, but **clarity, stability, and purpose-driven automation**.
+
+---
+
+// Future Direction
+- AI-assisted explanation layers for decision systems
+- Autonomous robotics with reasoning logs
+- Purpose-driven AI: systems that explain their actions, not just execute them
